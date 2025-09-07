@@ -9,6 +9,21 @@
      <a href="https://dashrath-cv.vercel.app/">Portfolio</a>
 </p>
 -->    
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dashrath-patel">
+        <img src="https://github-readme-stats.vercel.app/api?username=dashrath-patel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="im-ukr's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dashrath-patel">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=dashrath-patel&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![An image of @ultrapain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultrapain)](https://holopin.io/@ultrapain)
 
 <!--   my-skils -->
