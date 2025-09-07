@@ -1,9 +1,9 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400"> 
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400">
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891b2&size=34&multiline=true&width=1000&text-align=center&lines=Dashrath-Patel+++++++++++++++++++%7C%E2%88%86%E2%9E%B6%7C)](https://git.io/typing-svg)-->
 
 
-
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dashrath-patel&theme=github-dark-dimmed&custom_title=Dashrath_Patel&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dashrath-patel&theme=github-dark)](https://github.com/im-ukr)
 <!--   my-ticker 
 <p align="center">
      <a href="https://dashrath-cv.vercel.app/">Portfolio</a>
