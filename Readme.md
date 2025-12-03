@@ -1,24 +1,61 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400">
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891b2&size=34&multiline=true&width=1000&text-align=center&lines=Dashrath-Patel+++++++++++++++++++%7C%E2%88%86%E2%9E%B6%7C)](https://git.io/typing-svg)-->
-
-
 <div align="center">
+
+<img width="1012" height="494" alt="image" src="https://github.com/user-attachments/assets/b5287823-b43f-4562-9386-1ce77fd03ddc" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashrath-patel&theme=tokyo-night&hide_border=true" width="100%"/>
-  
-</div>
-<!--   my-ticker 
-<p align="center">
-     <a href="https://dashrath-cv.vercel.app/">Portfolio</a>
+# Hi 👋, I'm Dashrath Patel
+
+### Full Stack Developer | Bridging Technology & Society | Building What People Actually Need
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Dashrath-Patel&label=Profile%20views&color=0e75b6&style=flat" alt="Dashrath-Patel" /> 
 </p>
--->    
+
+</div>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **MockifyAI - AI-Powered Mock Test Platform** (An intelligent mock test platform that transforms study materials into personalized practice tests using AI)
+
+- 🌱 I'm currently learning **Java with Spring Boot, Docker & Kubernetes, Cloud Technologies (AWS), DSA, AI/ML Technologies**
+
+- 👯 I'm looking to collaborate on **Open-source projects, innovative web applications, and startups building meaningful products**
+
+- 🤝 I'm looking for help with **DevOps best practices, implementing CI/CD pipelines, and scaling applications for high traffic**
+
+- 💬 Ask me about **JavaScript/TypeScript, React ecosystem, Node.js backend development, REST APIs, database optimization, and building production-ready applications**
+
+- 📫 How to reach me: **dashrathpatel0810@gmail.com**
+
+- ⚡ Fun fact: **I debug faster with console.log() than most people do with a debugger! ☕ Also, I believe good code is like a good joke - it needs no explanation.**
+
+- 👨‍💻 All of my projects are available at **[https://www.dashrathpatel.dev/](https://www.dashrathpatel.dev/)**
+
+- 📝 I regularly write articles on **[https://medium.com/@dashrathpatel0810](https://medium.com/@dashrathpatel0810)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1vT_0SOjUYr5GuZAYRQaoAWPiUBJWoEub/view?usp=sharing)**
+
+<br clear="right"/>
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://github.com/Dashrath-Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dashrath-Patel" height="30" width="40" /></a>
+<a href="https://dev.to/dashrath_dnf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dashrath_dnf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dashrath-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dashrath-patel" height="30" width="40" /></a>
+<a href="https://twitter.com/Dashrath_dnf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dashrath_dnf" height="30" width="40" /></a>
+<a href="https://medium.com/@dashrathpatel0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dashrathpatel0810" height="30" width="40" /></a>
+<a href="https://leetcode.com/Dashrath_Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dashrath_Patel" height="30" width="40" /></a>
+</p>
+
+---
 
 ## 🏆 Recent Achievements
 
 <div align="center">
   
-| 🏆 **Achievement** | 📅 **When** | 🎯 **Impact** |
+| 🏆 Achievement | 📅 When | 🎯 Impact |
 |:---:|:---:|:---:|
 | 🥇 **Hack With Mumbai BVUDPET** | 2025 | Edutech Category Winner |
 | 🥇 **Stellar BuildAthon** | 2025 | Stellar Blockchain Winner |
@@ -28,54 +65,98 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/dashrath-patel">
-        <img src="https://github-readme-stats.vercel.app/api?username=dashrath-patel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="im-ukr's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dashrath-patel">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=dashrath-patel&theme=dark&background=1C1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![An image of @ultrapain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultrapain)](https://holopin.io/@ultrapain)
-
-<!--   my-skils -->
-
 ## 🏅 Competitive Programming Journey
 
 <div align="center">
   
 | Platform | Rating | Problems Solved | Achievements |
 |:---:|:---:|:---:|:---:|
-| 💻 **[LeetCode](https://leetcode.com/u/Dashrath_Patel/)** | Intemediate | 127+ | Global Rank: ~110k |
-| 🔥 **[Codeforces](https://codeforces.com/profile/Dashrath_Dnf)** | Intermediate | 50+ |  |
-| ⭐ **[CodeChef](https://www.codechef.com/users/dashrathpatel)** | Intermediate | 70+ |  |
+| 💻 **[LeetCode](https://leetcode.com/u/Dashrath_Patel/)** | Intermediate | 127+ | Global Rank: ~110k |
+| 🔥 **[Codeforces](https://codeforces.com/profile/Dashrath_Dnf)** | Intermediate | 50+ | Active Competitor |
+| ⭐ **[CodeChef](https://www.codechef.com/users/dashrathpatel)** | Intermediate | 70+ | Regular Participant |
   
 </div>
+
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![LeetCode Stats](https://leetcode.card.workers.dev/Dashrath_Patel?theme=auto&font=baloo&extension=null)
-  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=dashrath-patel&theme=github&chart=bars" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=dashrath-patel&theme=radical&hide_border=true&background=0D1117&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=0891b2&fire=0891b2&stroke=0891b2" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=dashrath-patel&type=languages&theme=github&chart=pie" alt="Language Stats" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
+---
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Domain Knowledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/ULTRAPAIN/ULTRAPAIN) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=ULTRAPAIN&type=Repositories)  [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user:ULTRAPAIN&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/ULTRAPAIN) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/ULTRAPAIN) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/ULTRAPAIN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Databases**                                   |  <img  data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;">  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **CP**                                          |  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=fLAT&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Dashrath_Patel/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dashrathpatel) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Dashrath_Patel)                                                                                                                                                                                                                                                                           |
-| **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)|
+## 📈 Contribution Graph
 
+<div align="center">
 
+[![Dashrath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dashrath-patel&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
+---
+
+## 🎖️ Holopin Badges
+
+<div align="center">
+
+[![An image of @ultrapain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultrapain)](https://holopin.io/@ultrapain)
+
+</div>
+
+---
